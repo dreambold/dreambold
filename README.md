@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **dreambold/dreambold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there 👋, I'm Shin!
+### Hi there 👋, I'm Joe!
 
 <a href="https://twitter.com/shinokada">
   <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
