@@ -2,7 +2,7 @@
 <!--
 **dreambold/dreambold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there 👋, I'm Joe!
+### Hi there 👋, I'm Joey!
 
 <a href="https://twitter.com/joeyra0723">
   <img align="left" alt="Joey Ramsey | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
@@ -36,10 +36,10 @@
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/rust.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/vim.png"></code>  
