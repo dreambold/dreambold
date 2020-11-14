@@ -36,10 +36,10 @@
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/master/assets/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/master/assets/rust.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/master/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/master/assets/vim.png"></code>  
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/assets/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/assets/rust.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/assets/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/assets/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/assets/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/assets/vim.png"></code>  
