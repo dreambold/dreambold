@@ -38,16 +38,15 @@
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/rust.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/c_sharp.png"></code>  
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/spring.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/java.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/docker.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/jenkins.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/amazon-web-services.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/vim.png"></code>  
