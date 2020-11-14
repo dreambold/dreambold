@@ -45,7 +45,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/laravel.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/c_sharp.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/aspcore.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/dotnet.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/dotnet.png"></code><br>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/spring.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/dreambold/dreambold/main/assets/docker.png"></code>
