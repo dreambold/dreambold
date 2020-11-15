@@ -1,10 +1,6 @@
 
 ### Hi there 👋, I'm Joey!
 
-<a href="https://twitter.com/joeyra0723">
-  <img align="left" alt="Joey Ramsey | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
-</a>
-
 <br />
 <br />
 
@@ -20,7 +16,7 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-- 📫 How to reach me: <a href="https://twitter.com/joeyra0723">@joeyra0723</a> 
+- 📫 How to reach me: <a href="https://twitter.com/joeyra0723">@joeyra0723<img align="left" alt="Joey Ramsey | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/></a> 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true)
