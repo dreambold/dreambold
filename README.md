@@ -43,6 +43,7 @@
 
 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![C#](https://img.shields.io/badge/C%23-C--sharp-blue?style=flat-square&logo=appveyor)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -67,6 +68,7 @@
 &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![CI/CD](https://img.shields.io/badge/-CICD-333333?style=flat&logo=cicd)
   ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=devops)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
