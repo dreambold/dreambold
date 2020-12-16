@@ -19,7 +19,15 @@
 - 📫 How to reach me: <a href="https://twitter.com/joeyra0723">@joeyra0723<img align="left" alt="Joey Ramsey | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/></a> 
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true)
+
+
+<a href="https://github.com/dreambold">
+  <!--![Github stats](https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true" />
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreambold&theme=buefy&layout=compact" /> -->
+</a>
+<br/>
+<br/>
 
 <!--
 
