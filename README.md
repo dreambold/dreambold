@@ -56,7 +56,6 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C#](https://img.shields.io/badge/C%23-C--sharp-blue?style=flat-square&logo=appveyor)
-
 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
