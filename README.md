@@ -50,7 +50,7 @@
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
