@@ -50,12 +50,13 @@
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![C#](https://img.shields.io/badge/C%23-C--sharp-blue?style=flat-square&logo=appveyor)
+  <!--![C#](https://img.shields.io/badge/C%23-C--sharp-blue?style=flat-square&logo=appveyor)  -->
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+
 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
