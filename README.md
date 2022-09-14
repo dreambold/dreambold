@@ -51,6 +51,7 @@
 
 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
