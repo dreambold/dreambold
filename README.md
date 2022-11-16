@@ -24,6 +24,7 @@
 <a href="https://github.com/dreambold">
   <!--![Github stats](https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true) -->
   <img src="https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true" />
+  
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreambold&theme=buefy&layout=compact" /> -->
 </a>
 <br/>
@@ -84,6 +85,8 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=622ad8)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
+
+<a href="https://stackexchange.com/users/17567156/dream-big"><img src="https://stackexchange.com/users/flair/17567156.png" width="208" height="58" alt="profile for Dream Big on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Dream Big on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 <!--
 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
