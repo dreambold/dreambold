@@ -86,7 +86,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
-<a href="https://stackexchange.com/users/17567156/dream-big"><img src="https://stackexchange.com/users/flair/17567156.png" width="208" height="58" alt="profile for Dream Big on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Dream Big on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackoverflow.com/users/12743692/dream-bold"><img src="https://stackexchange.com/users/flair/17567156.png" width="208" height="58" alt="profile for Dream Big on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Dream Big on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 <!--
 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
