@@ -47,41 +47,26 @@
 
 <!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
 
-&nbsp;
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C#](https://img.shields.io/badge/C%23-C--sharp-blue?style=flat-square&logo=appveyor)  
-&nbsp;
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)  
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![.Net](https://img.shields.io/badge/-.net-333333?style=flat&logo=dotnet)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)  
-&nbsp;
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Microsoft-SQL-Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=007ACC)  
-&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-  ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoft-azure)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![MD](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)  
-&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=622ad8)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
 
 <a href="https://stackoverflow.com/users/12743692/dream-bold?tab=profile"><img src="https://stackexchange.com/users/flair/17567156.png" width="208" height="58" alt="Profile for Dreambold on Stackoverflow, a network of free, community-driven Q&amp;A sites" title="Profile for Dreambold on Stackoverflow, a network of free, community-driven Q&amp;A sites" /></a>
 <!--
