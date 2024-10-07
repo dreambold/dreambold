@@ -20,7 +20,8 @@
 
 <a href="https://github.com/dreambold">
   <!--![Github stats](https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true) -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=dreambold&theme=highcontrast&show_icons=true&count_private=true" />
+
   
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreambold&theme=buefy&layout=compact" /> -->
 </a>
